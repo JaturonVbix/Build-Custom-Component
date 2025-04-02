@@ -99,7 +99,8 @@ npm install --save-dev html-webpack-plugin
 ### ✅ 5. สร้างไฟล์ `index.html` ไปไว้ในโฟลเดอร์ `src/`
 
 > เพื่อใช้เป็น Template ให้กับ HtmlWebpackPlugin
-> 
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -110,12 +111,17 @@ npm install --save-dev html-webpack-plugin
     <div id="root"></div> <!-- React will attach to this div -->
 </body>
 </html>
+```
 
 ---
 
 ### ✅ 6. แก้ไขไฟล์ `App.js` ในโฟลเดอร์ `src/`
 
-> import React, { Fragment, useState, useEffect } from 'react';
+```js
+import React, { Fragment, useState, useEffect } from 'react';
+```
+
+---
 
 ### ✅ 7. แก้ไข `package.json` ในส่วนของ `scripts`
 
