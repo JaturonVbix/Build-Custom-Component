@@ -3,7 +3,6 @@
 > **Note:** ไฟล์นี้จะเน้นเฉพาะ **ขั้นตอนหลังจากพัฒนา Component ด้วย React เสร็จแล้ว** และเตรียมสำหรับ **อัปโหลดขึ้นใช้งานบน Kissflow LowCode** ในรูปแบบ Custom Component  
 > *(ข้ามขั้นตอนการพัฒนา Component)*  
 >  
-> ไฟล์แนบ: **Resource & Result**
 
 ---
 
